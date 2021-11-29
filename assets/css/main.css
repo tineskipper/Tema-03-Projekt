@@ -13,8 +13,6 @@
   
   html {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: var(--mint);
-    color: var(--black);
     font-size: 18px;
   }
   
@@ -25,12 +23,7 @@
   img {
     max-width: 100%;
   }
-  
-  .site-width {
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 1.5rem; /* 1.5 * 18px = 27px */
-  }
+
 
 
 
@@ -246,8 +239,210 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   /*forside slut/*
-   /*boder start/*
+  /*boder start/*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
